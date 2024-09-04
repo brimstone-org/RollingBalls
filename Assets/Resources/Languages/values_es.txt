@@ -1,0 +1,62 @@
+title=Rolling Balls
+easyg=Juego fácil
+mediumg=Juego medio
+hardg=Juego difícil
+settings=Configuraciones
+ballcolors=Colores de la bola
+ballspeed=Velocidad de bola
+holesspeed=Velocidad de agujeros
+controltype=Tipo de control
+calibrate=Calibrar
+lang=Idioma
+langCap=IDIOMA
+quit=Deja
+
+eng=Inglés
+ger=Alemán
+es=Español
+fr=Francés
+it=Italiano
+pt=Portugués
+ru=Ruso
+
+red=Rojo
+yellow=Amarillo
+blue=Azul
+green=Verde
+
+info_colors=Permitir recoger bolas de colores antes que bolas blancas
+info_calibrate=Coloca tu dispositivo en una superficie plana y presiona Calibrar.
+info_language=Elegir idioma.
+
+fast=Rápido
+slow=Lento
+tilt=Inclinar
+swipe=Deslizar
+
+selectlevel=Selecciona el nivel
+
+yousure=¿Estás seguro?
+backtomenu=¿Volver al menú principal?
+
+mainmenu=Menú principal
+replay=Repetición
+nextlevel=Siguiente nivel
+
+win=¡Tú ganas!
+greatjob=¡Gran trabajo!
+
+ok=OK
+
+info_e0s0=Pon la bola blanca en el agujero.
+info_e0s2=Primero coloca todas las bolas blancas en el agujero y luego atrapa la roja.
+info_e0s4=Coloca todas las bolas blancas en cualquier agujero y luego coloca las bolas rojas en el agujero rojo.
+info_e0s5=Coloca todas las bolas blancas en cualquier agujero y luego coloca la bola amarilla en el agujero amarillo.
+info_e0s6=Pon todas las bolas blancas en un agujero y las bolas de colores en los agujeros correspondientes.
+
+congrats=¡FELICITACIONES!
+complete=¡FIN!
+easyPackComplete=¡Has completado los niveles fáciles!
+mediumPackComplete=¡Has completado los niveles medios!
+hardPackComplete=¡Has completado el paquete difícil!
+gameComplete=¡Felicitaciones! ¡Has completado todos los niveles!

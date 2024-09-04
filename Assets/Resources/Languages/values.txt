@@ -1,0 +1,62 @@
+title=Rolling Balls
+easyg=Easy Game
+mediumg=Medium Game
+hardg=Hard Game
+settings=Settings
+ballcolors=Ball colors
+ballspeed=Ball Speed
+holesspeed=Holes Speed
+controltype=Control Type
+calibrate=Calibrate
+lang=Language
+langCap=LANGUAGE
+quit=Quit
+
+eng=English
+ger=German
+es=Spanish
+fr=French
+it=Italian
+pt=Portuguese
+ru=Russian
+
+red=Red
+yellow=Yellow
+blue=Blue
+green=Green
+
+info_colors=Allow collecting colored balls before white balls
+info_calibrate=Place you device on a flat surface and press Calibrate.
+info_language=Choose language.
+
+fast=Fast
+slow=Slow
+tilt=Tilt
+swipe=Swipe
+
+selectlevel=Select Level
+
+yousure=Are you sure?
+backtomenu=Go back to main menu?
+
+mainmenu=Main menu
+replay=Replay
+nextlevel=Next level
+
+win=You Win!
+greatjob=Great job!
+
+ok=OK
+
+info_e0s0=Get the white ball into the hole.
+info_e0s2=First get all the white balls into the hole and then catch the red one.
+info_e0s4=Get all the white balls into any hole and then put red balls into red hole.
+info_e0s5=Put all white balls into any whole and then put yellow ball into yellow hole.
+info_e0s6=Put all white balls into any whole and the colored balls into corresponding holes.
+
+congrats=CONGRATULATIONS!
+complete=THE END!
+easyPackComplete=You have completed the easy pack!
+mediumPackComplete=You have completed the medium pack!
+hardPackComplete=You have completed the hard pack!
+gameComplete=You have mastered the game by completing all packs!

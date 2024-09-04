@@ -1,0 +1,62 @@
+title=Sfere rotolanti
+easyg=Livelli facili
+mediumg=Livelli medi
+hardg=Livelli difficili
+settings=Impostazioni
+ballcolors=Colori della palla
+ballspeed=Velocità della palla
+holesspeed=Velocità dei fori
+controltype=Tipo di controllo
+calibrate=Calibrare
+lang=Lingua
+langCap=LINGUA
+quit=Smetti
+
+eng=Inglese
+ger=Tedesca
+es=Spagnola
+fr=Francese
+it=Italian
+pt=Portoghese
+ru=Russa
+
+red=Rosso
+yellow=Giallo
+blue=Blu
+green=Verde
+
+info_colors=Consentire la raccolta di palline colorate prima di palline bianche
+info_calibrate=Posiziona il dispositivo su una superficie piana e premi Calibrare.
+info_language=Scegli la lingua.
+
+fast=Veloce
+slow=Lento
+tilt=Inclinare
+swipe=Scorere
+
+selectlevel=Seleziona livello
+
+yousure=Sei sicuro?
+backtomenu=Torna al menu principale?
+
+mainmenu=Menu principale
+replay=Replay
+nextlevel=Livello successivo
+
+win=Hai vinto!
+greatjob=Ottimo lavoro!
+
+ok=OK
+
+info_e0s0=Metti la palla bianca nella buca.
+info_e0s2=Prima prendi tutte le palline bianche nel buco e poi prendi quella rossa.
+info_e0s4=Prendi tutte le palline bianche in qualsiasi buco e poi metti le palline rosse nel buco rosso.
+info_e0s5=Metti tutte le palline bianche in un tutto e poi metti la pallina gialla nel buco giallo.
+info_e0s6=Metti tutte le palline bianche in un tutto e le palline colorate nei fori corrispondenti.
+
+congrats=CONGRATULAZIONI!
+complete=Fine!
+easyPackComplete=Hai completato il pacchetto facile!
+mediumPackComplete=Hai completato il pacchetto medio!
+hardPackComplete=Hai completato il pacchetto difficile!
+gameComplete=Congratulazioni! Hai completato tutti i livelli!

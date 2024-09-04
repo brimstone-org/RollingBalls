@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fd89da639761ed54d8caaff8df057049
+timeCreated: 1501103099
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PROMINDER
+  fontNames:
+  - PROMINDER
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+title=Rolling Balls
+easyg=Jogo fácil
+mediumg=Jogo de dificuldade média
+hardg=Jogo difícil
+settings=Configurações
+ballcolors=Cores da bola
+ballspeed=Velocidade da bola
+holesspeed=Velocidade dos buracos
+controltype=Tipo de controlo
+calibrate=Calibrar
+lang=Lingua
+langCap=LINGUA
+quit=Sai
+
+eng=Inglês
+ger=Alemão
+es=Espanhol
+fr=Francês
+it=Italiano
+pt=Português
+ru=Russo
+
+red=Vermelho
+yellow=Amarelo
+blue=Azul
+green=Verde
+
+info_colors=Permiti recolher bolas coloridas antes das bolas brancas
+info_calibrate=Pousa o dispositivo sobre uma superfície plana e prime Calibrar.
+info_language=Escolha o idioma.
+
+fast=Rápido
+slow=Lento
+tilt=Inclinar
+swipe=Deslizar
+
+selectlevel=Selecionar nível
+
+yousure=Tens a certeza?
+backtomenu=Regressar ao menu principal?
+
+mainmenu=Menu principal
+replay=Repetir
+nextlevel=Nível seguinte
+
+win=Ganhas-te!
+greatjob=Bom trabalho!
+
+ok=OK
+
+info_e0s0=Mete a bola branca no buraco
+info_e0s2=Primeiro mete todas as bolas brancas no buraco e depois apanha a vermelha.
+info_e0s4=Mete todas as bolas brancas em qualquer buraco e depois mete as bolas vermelhas no buraco vermelho.
+info_e0s5=Mete todas as bolas brancas em qualquer buraco e depois mete a bola amarela no buraco amarelo.
+info_e0s6=Mete todas as bolas brancas em qualquer buraco e as bolas coloridas nos respetivos buracos.
+
+congrats=PARABÉNS!
+complete=O FIM!
+easyPackComplete=Você completou os níveis fáceis!
+mediumPackComplete=Você completou os níveis médios!
+hardPackComplete=Você completou o pacote difícil!
+gameComplete=Parabéns! Você completou todos os níveis!

@@ -1,0 +1,24 @@
+IOPjkl23
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <!-- app_id -->
+  <string name="app_id" translatable="false">856662098660</string>
+  <!-- package_name -->
+  <string name="package_name" translatable="false">com.tedrasoft.logicalstep</string>
+  <!-- achievement Easy pack -->
+  <string name="achievement_easy_pack" translatable="false">CgkI5IWpqPcYEAIQAQ</string>
+  <!-- achievement Hard Pack -->
+  <string name="achievement_hard_pack" translatable="false">CgkI5IWpqPcYEAIQAg</string>
+  <!-- achievement Bonus Pack -->
+  <string name="achievement_bonus_pack" translatable="false">CgkI5IWpqPcYEAIQAw</string>
+</resources>
+
+
+"com.unity.ads": "2.0.8",

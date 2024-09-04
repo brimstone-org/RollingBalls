@@ -1,0 +1,62 @@
+title=Boules De Roulement
+easyg=Jeu facile
+mediumg=Jeu moyen
+hardg=Jeu dur
+settings=Paramètres
+ballcolors=Couleurs de balle
+ballspeed=Vitesse de balle
+holesspeed=La vitesse des trous
+controltype=Type de contrôle
+calibrate=Étalonner
+lang=Langue
+langCap=LANGUE
+quit=Quitte
+
+eng=Anglais
+ger=Allemand
+es=Espagnole
+fr=Français
+it=Italienne
+pt=Portugais
+ru=Russe
+
+red=Rouge
+yellow=Jaune
+blue=Bleu
+green=Vert
+
+info_colors=Permet de collecter des boules colorées avant les boules blanches
+info_calibrate=Placez votre appareil sur une surface plane et appuyez sur Calibrer.
+info_language=Choisissez la langue.
+
+fast=Vite
+slow=Lent
+tilt=Inclinaison
+swipe=Balayer
+
+selectlevel=Choisir le niveau
+
+yousure=Êtes-vous sûr?
+backtomenu=Retourner au menu principal?
+
+mainmenu=Menu principal
+replay=Rejouer
+nextlevel=Niveau suivant
+
+win=Vous gagnez!
+greatjob=Bon travail!
+
+ok=OK
+
+info_e0s0=Mettez la boule blanche dans le trou.
+info_e0s2=D'abord, mettez toutes les boules blanches dans le trou, puis attrapez le rouge.
+info_e0s4=Mettez toutes les boules blanches dans n'importe quel trou, puis mettez des boules rouges dans le trou rouge.
+info_e0s5=Mettez toutes les boules blanches dans un ensemble, puis mettez la boule jaune dans le trou jaune.
+info_e0s6=Mettez toutes les boules blanches dans un ensemble et les boules colorées dans les trous correspondants.
+
+congrats=FÉLICITATIONS!
+complete=LA FIN!
+easyPackComplete=Vous avez terminé les niveaux faciles!
+mediumPackComplete=Vous avez terminé les niveaux moyens!
+hardPackComplete=Vous avez terminé les niveaux difficiles!
+gameComplete=Félicitations, vous avez terminé tous les niveaux!

@@ -1,0 +1,62 @@
+title=Rollende Kugeln
+easyg=Leichtes Spiel
+mediumg=Mittelschweres Spiel
+hardg=Schweres Spiel
+settings=Einstellungen
+ballcolors=Kugelfarben
+ballspeed=Kugelgeschwindigkeit
+holesspeed=Lochgeschwindigkeit
+controltype=Steuerungsart
+calibrate=Kalibrieren
+lang=Sprache
+langCap=SPRACHE
+quit=Verlasse
+
+eng=Englisch
+ger=Deutsch
+es=Spanisch
+fr=Französisch
+it=Italienisch
+pt=Portugiesisch
+ru=Russisch
+
+red=Rot
+yellow=Gelb
+blue=Blau
+green=Grün
+
+info_colors=Das Sammeln von bunten Kugeln vor weißen Kugeln erlauben
+info_calibrate=Stelle dein Gerät auf eine ebene Fläche und klicke auf Kalibrieren.
+info_language=Sprache auswählen.
+
+fast=Schnell
+slow=Langsam
+tilt=Neigen
+swipe=Wischen
+
+selectlevel=Level wählen
+
+yousure=Bist du sicher?
+backtomenu=Zurück zum Hauptmenü gehen?
+
+mainmenu=Hauptmenü
+replay=Noch einmal spielen
+nextlevel=Nächstes Level
+
+win=Du hast gewonnen!
+greatjob=Gut gemacht!
+
+ok=OK
+
+info_e0s0=Bringe die weiße Kugel ins Loch.
+info_e0s2=Bringe zuerst alle weißen Kugeln ins Loch und und fange dann die rote.
+info_e0s4=Bringe all weißen Kugeln in irgendein Loch und dann die roten Kugeln ins rote Loch.
+info_e0s5=Bringe alle weißen Kugeln in irgendein Loch und bringe dann die gelbe Kugel in das gelbe Loch.
+info_e0s6=Bringe alle weißen Kugeln in irgendein Loch und die bunten Kugeln in die entsprechenden Löcher.
+
+congrats=HERZLICHEN GLÜCKWUNSCH!
+complete=DAS ENDE!
+easyPackComplete=Du hast die einfachen Levels abgeschlossen!
+mediumPackComplete=Du hast die mittleren Level abgeschlossen!
+hardPackComplete=Sie haben das schwierige Paket abgeschlossen!
+gameComplete=Herzlichen Glückwunsch! Du hast alle Level abgeschlossen!
